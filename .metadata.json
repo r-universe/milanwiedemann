@@ -1,0 +1,10 @@
+[
+  {
+    "package": "lcsm",
+    "oncran": true
+  },
+  {
+    "package": "suddengains",
+    "oncran": true
+  }
+]
