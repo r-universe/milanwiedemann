@@ -4,7 +4,6 @@
     "oncran": true
   },
   {
-    "package": "suddengains",
-    "oncran": true
+    "package": "suddengains"
   }
 ]
