@@ -1,9 +1,0 @@
-[
-  {
-    "package": "lcsm",
-    "oncran": true
-  },
-  {
-    "package": "suddengains"
-  }
-]
