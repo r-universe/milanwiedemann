@@ -5,6 +5,3 @@
 [submodule "lcsm"]
 	path = lcsm
 	url = https://github.com/milanwiedemann/lcsm
-[submodule "suddengains"]
-	path = suddengains
-	url = https://github.com/milanwiedemann/suddengains
